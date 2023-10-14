@@ -1,6 +1,5 @@
 import styles from "./Task5.module.css";
 import { useState } from "react";
-import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import "react-datepicker/dist/react-datepicker.css";
 
