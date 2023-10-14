@@ -1,0 +1,46 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.outerbox {
+    display: block;
+}
+
+
+.colorBar {
+    display: flex;
+
+
+}
+
+.pickDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorBox {
+    display: flex;
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+}
+
+.header {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.pick_btn {
+    background-color: green;
+    font-size: 1.5rem;
+    color: white;
+    height: 3rem;
+    width: 250px;
+}

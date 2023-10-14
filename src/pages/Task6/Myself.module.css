@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 110vh;
+    width: 60%;
+    background-color: black;
+}
+
+.heading {
+    font-size: 3rem;
+    color: white;
+    margin-left: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.intro {
+    font-size: 2rem;
+    color: white;
+    margin-left: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.reach {}

@@ -1,0 +1,60 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.outerbox {
+    display: block;
+}
+
+
+.td img {
+    height: 40px;
+}
+
+
+
+.header {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.mainText {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.calendar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+}
+
+.btn {
+    background: #0d6efd;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.dispAns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ansP {
+    padding: 40px;
+    font-size: 25px;
+    font-weight: bold;
+}
